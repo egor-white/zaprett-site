@@ -36,5 +36,8 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/CherretGit/zaprett-app' },
       { icon: 'telegram', link: 'https://t.me/zaprett_module' }
     ]
+  },
+  sitemap: {
+    hostname: "https://zaprett.xyz"
   }
 })
