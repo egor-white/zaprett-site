@@ -3,7 +3,6 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "zaprett",
-  base: "/zaprett-site/",
   cleanUrls: true,
   description: "Документация zaprett",
   themeConfig: {
