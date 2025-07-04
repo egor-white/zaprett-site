@@ -1,7 +1,21 @@
-title: Мой сайт на Hacker
-description: Пример сайта на GitHub Pages с темой Hacker
-show_downloads: false
-google_analytics:
-remote_theme: pages-themes/hacker@v0.2.0
-plugins:
-  - jekyll-remote-theme
+title: zaprett
+description: Сайт приложения zaprett
+theme: just-the-docs
+
+# Настройки Just the Docs
+#logo: /assets/images/logo.png    # путь к логотипу (опционально)
+color_scheme: dark               # или light (опционально)
+search_enabled: true             # поиск по сайту
+
+# Навигация (пример)
+nav:
+  - Главная: index.md
+  - Руководство:
+      - Установка: guide/install.md
+      - Использование: guide/usage.md
+
+# URL сайта (опционально)
+url: "https://username.github.io/repo"
+
+# Локализация (опционально)
+lang: ru
