@@ -39,7 +39,7 @@ jobs:
         run: npm run docs:build
 
       - name: List build output (debug)
-        run: ls -la docs/.vitepress
+        run: ls -la .vitepress
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
