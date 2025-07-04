@@ -14,6 +14,7 @@ export default defineConfig({
     ],
 
     sidebar: [
+      { text: 'Документация', link: '/guide'},
       {
         text: 'Установка',
         items: [
