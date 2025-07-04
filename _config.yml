@@ -1,5 +1,5 @@
-title: Моя документация
-description: Сайт на GitHub Pages с темой Just the Docs
+title: zaprett
+description: Документация приложения zaprett
 
 remote_theme: just-the-docs/just-the-docs
 
@@ -9,3 +9,4 @@ plugins:
 # Дополнительные настройки (опционально)
 color_scheme: dark
 search_enabled: true
+lang: ru
