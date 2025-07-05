@@ -4,7 +4,10 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "zaprett",
   cleanUrls: true,
-  description: "Документация zaprett",
+  description: "Эффективное средство обхода блокировок YouTube и Discord для Android",
+  head: [
+    ['link', { rel: 'icon', href: '/favicon.ico' }]
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
