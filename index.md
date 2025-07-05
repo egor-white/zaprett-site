@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "zaprett"
   text: "РКН не преграда, когда zaprett рядом!"
-  tagline: "Средство для обхода замедления YouTube, Discord и всего, что РКН когда либо блокировал."
+  tagline: "Средство для обхода замедления YouTube, Discord и всего, что РКН когда либо блокировал под Android."
   actions:
     - theme: brand
       text: Установка
