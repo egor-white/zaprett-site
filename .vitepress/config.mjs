@@ -13,7 +13,8 @@ export default defineConfig({
     nav: [
       { text: 'Домой', link: '/' },
       { text: 'Документация', link: '/guide', activeMatch: '^/guide' },
-      { text: 'О нас', link: '/about' }
+      { text: 'О нас', link: '/about' },
+      { text: 'Донат', link: 'https://pay.cloudtips.ru/p/672192fd'}
     ],
 
     sidebar: [
