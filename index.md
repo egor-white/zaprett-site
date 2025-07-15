@@ -21,7 +21,5 @@ features:
     details: Приложение поддерживает работу с nfqws (zapret от bol-van) и byedpi (byedpi от hufrea)
   - title: Абсолютно бесплатно
     details: Приложение и модуль не включают в себя никаких платных услуг и подписок
-  - title: test
-    details: test
 ---
 
