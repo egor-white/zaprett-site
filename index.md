@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: Telegram канал
       link: https://t.me/zaprett_module
+    - theme: alt
+      text: Зеркало сайта
+      link: https://storage.yandexcloud.net/zaprett/index.html
 
 features:
   - title: Репозиторий
