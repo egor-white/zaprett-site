@@ -44,4 +44,5 @@ export default defineConfig({
   },
   sitemap: {
     hostname: process.env.VITEPRESS_HOSTNAME || 'https://zaprett.pw'
+  }
 })
