@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "zaprett",
-  cleanUrls: process.env.VITEPRESS_CLEANURL || true,
+  cleanUrls: process.env.VITEPRESS_CLEANURL != "false" || true,
   base: process.env.VITEPRESS_BASE || '/',
   description: "Эффективное средство обхода блокировок YouTube и Discord для Android",
   head: [
