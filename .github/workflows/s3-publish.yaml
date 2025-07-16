@@ -27,7 +27,7 @@ jobs:
         run: npm ci
 
       - name: Build with VitePress
-        run: VITEPRESS_CLEANURL=false VITEPRESS_BASE=/zapret/ VITEPRESS_HOSTNAME=https://storage.yandexcloud.net/zaprett npm run docs:build
+        run: VITEPRESS_CLEANURL=false VITEPRESS_BASE=/zaprett/ VITEPRESS_HOSTNAME=https://storage.yandexcloud.net/zaprett npm run docs:build
 
       - name: List build output (debug)
         run: ls -la .vitepress
