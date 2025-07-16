@@ -1,4 +1,4 @@
-## fork zaprett wiki site
+## Документация zaprett
 
-- mirror on GH pages - [https://zaprett.pw]()
-- mirror on yandex (harder to block) - [https://storage.yandexcloud.net/zaprett/index.html]()
+- Основной адрес - [https://zaprett.pw]()
+- Зеркало на Yandex Cloud - [https://storage.yandexcloud.net/zaprett/index.html]()
