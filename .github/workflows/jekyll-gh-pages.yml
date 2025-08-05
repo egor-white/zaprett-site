@@ -1,8 +1,6 @@
 name: Deploy VitePress site to GitHub Pages
 
 on:
-  push:
-    branches: [main] # Если у вас основная ветка называется master, замените на master
   workflow_dispatch:
 
 permissions:
