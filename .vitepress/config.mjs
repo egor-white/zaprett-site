@@ -15,7 +15,7 @@ export default defineConfig({
       { text: 'Домой', link: '/' },
       { text: 'Документация', link: '/guide', activeMatch: '^/guide' },
       { text: 'О нас', link: '/about' },
-      { text: 'Донат', link: 'https://pay.cloudtips.ru/p/672192fd'}
+      { text: 'Поддержать', link: '/donate'}
     ],
 
     sidebar: [
@@ -32,7 +32,14 @@ export default defineConfig({
         items: [
           { text: 'nfqws (root)', link: '/guide/use/nfqws'},
           { text: 'byedpi (non-root)', link: '/guide/use/byedpi'},
-          { text: 'Репозиторий', link: '/guide/use/repo'}
+          { text: 'Репозиторий', link: '/guide/use/repo'},
+          { text: 'Подбор стратегии', link: '/guide/use/strategy-selection'}
+        ]
+      },
+      {
+        text: "Разработка",
+        items: [
+          { text: 'Листы и стратегии', link: '/guide/contribute/repo'}
         ]
       }
     ],

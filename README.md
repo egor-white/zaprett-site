@@ -1,4 +1,4 @@
 ## Документация zaprett
 
-- Основной адрес - https://zaprett.pw
+- Основной адрес - https://mailru.pro
 - Зеркало на Yandex Cloud - https://storage.yandexcloud.net/zaprett/index.html
