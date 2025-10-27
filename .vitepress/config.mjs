@@ -50,6 +50,6 @@ export default defineConfig({
     ]
   },
   sitemap: {
-    hostname: process.env.VITEPRESS_HOSTNAME || 'https://zaprett.pw'
+    hostname: process.env.VITEPRESS_HOSTNAME || 'https://mailru.pro'
   }
 })
