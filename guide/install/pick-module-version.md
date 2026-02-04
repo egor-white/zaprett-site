@@ -7,14 +7,12 @@ outline: deep
 В актуальных релизах есть 3 версии модуля, а именно:
 - zaprett.zip
 - zaprett-hosts.zip
-- zaprett-tv.zip
 
 Основные их отличия представленны в таблице ниже.
 Для устройств на Android TV **рекомендуется использовать именно TV версию** из-за некоторых особенностей работы этой ОС.
 |Версия|Списки|/etc/hosts|
 |------|------|----------|
 |zaprett|list-youtube.txt, list-discord.txt|:x: Нет|
-|zaprett-tv|list-youtube.txt|:x: Нет|
 |zaprett-hosts|list-youtube.txt,list-discord.txt|:white_check_mark: Есть|
 
 ## Что такое /etc/hosts?
